@@ -1,7 +1,8 @@
-adom-vault.py <https://github.com/CalumJEadie/adom-vault>
-=========================================================
+adom-vault.py
+=============
 
-Calum J. Eadie <https://github.com/CalumJEadie>
+Calum J. Eadie
+<https://github.com/CalumJEadie>
 
 Intro
 -----
