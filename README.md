@@ -8,14 +8,16 @@ Calum J. Eadie
 Intro
 -----
 
-Tool for rougelike game [ADOM][1]. Saves and restores ADOM game directories, constitutes and implements a save cheat.
+Project from a quite a few years ago now, please excuse any poor style!
+
+adom-vault is a tool for the rougelike game [ADOM][1]. It saves and restores ADOM game directories so you can restore a character back to a previous time if they die.
 
 [1]: http://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery
 
 Usage
 -----
 
-Simple execute `adom-vault.py`.
+Simply execute `adom-vault.py`.
 
 Assumes that ADOM data saved at `~/.adom.data` and ADOM binary at `~/bin/adom`.
 
